@@ -962,7 +962,7 @@ crypto-browserify@^3.11.0:
     randombytes "^2.0.0"
     randomfill "^1.0.3"
 
-css-loader@^5.2.0:
+css-loader@^1.22.5:
   version "5.2.0"
   resolved "https://registry.npm.taobao.org/css-loader/download/css-loader-5.2.0.tgz?cache=0&sync_timestamp=1616606277469&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fcss-loader%2Fdownload%2Fcss-loader-5.2.0.tgz#a9ecda190500863673ce4434033710404efbff00"
   integrity sha1-qezaGQUAhjZzzkQ0AzcQQE77/wA=
@@ -4332,7 +4332,7 @@ webpack-dev-middleware@^3.7.2:
     range-parser "^1.2.1"
     webpack-log "^2.0.0"
 
-webpack-dev-server@^3.9.0:
+webpack-dev-server@^3.11.2:
   version "3.11.2"
   resolved "https://registry.npm.taobao.org/webpack-dev-server/download/webpack-dev-server-3.11.2.tgz?cache=0&sync_timestamp=1616521496693&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fwebpack-dev-server%2Fdownload%2Fwebpack-dev-server-3.11.2.tgz#695ebced76a4929f0d5de7fd73fafe185fe33708"
   integrity sha1-aV687Xakkp8NXef9c/r+GF/jNwg=
